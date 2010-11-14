@@ -1,0 +1,5 @@
+		Coroutines are program components that generalize subroutines to allow multiple entry points for suspending and resuming execution at certain locations. They are similar to the generators in python. In 2 ways you can implement coroutines in c. 
+		1. Static version
+		2. Re-entrant version
+		
+		Here a attempt is made to study both these ways.
